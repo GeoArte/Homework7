@@ -125,6 +125,7 @@ public class Main {
         {
             System.out.println("    " + year);
             year = year + 79;
+
         }
     }
 }
